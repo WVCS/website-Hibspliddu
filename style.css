@@ -1,3 +1,38 @@
 body {
-background-color: orange;
+  background-color: #c8e7ff;
+}
+nav{ 
+  list-style-type: none;
+  background-color: #3333;
+  width: 100%;
+  left: 0;
+  top:0;
+  margin: 0;
+  overflow: hidden;
+  position: fixed;
+}
+li {
+  float: left;
+}
+li a {
+  display: blocks;
+  color: white;
+  text-decoration: none;
+  padding: 50px 100px;
+  
+}
+li a: hover {
+  background-color: anitquewhite;
+  color: black;
+}
+h1 {
+  color: #4cc9f0;
+  text-align: center;
+  position: absolute; left:750px; top:30px;
+
+  
+}
+
+p{
+  color: #e5989b;
 }
