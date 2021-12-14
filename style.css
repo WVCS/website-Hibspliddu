@@ -1,3 +1,13 @@
+<html>
+<body>
+      <nav>
+        <li><a href= "index.html"> Home </a></li>
+        <li><a href= "apps.html"> Apps </a></li>
+        <li><a href= "work.html"> Other Work </a></li>
+                
+      </nav>
+  </body>  
+</html>
 body {
   background-color: #c8e7ff;
 }
