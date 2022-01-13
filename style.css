@@ -1,48 +1,41 @@
-<html>
-<body>
-      <nav>
-        <li><a href= "index.html"> Home </a></li>
-        <li><a href= "apps.html"> Apps </a></li>
-        <li><a href= "work.html"> Other Work </a></li>
-                
-      </nav>
-  </body>  
-</html>
+section1{
+  position: absolute; top:100px;
+}
 body {
   background-color: #c8e7ff;
 }
 nav{ 
   list-style-type: none;
-  background-color: #3333;
+  background-color: #172A3A;
   width: 100%;
   left: 0;
   top:0;
   margin: 0;
   overflow: hidden;
-  position: fixed;
+  position: float;
 }
 li {
   float: left;
 }
 li a {
-  display: blocks;
+  display: block;
   color: white;
   text-decoration: none;
-  padding: 50px 100px;
+  padding: 20px 50px;
   
 }
 li a: hover {
-  background-color: anitquewhite;
+  background-color: white;
   color: black;
 }
 h1 {
   color: #4cc9f0;
   text-align: center;
-  position: absolute; left:750px; top:30px;
-
+  position: absolute; left:750px; top: 0px;
   
 }
 
 p{
   color: #e5989b;
 }
+
